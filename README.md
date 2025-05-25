@@ -26,7 +26,11 @@ Zona JS - playgroundJS és un entorn de desenvolupament JavaScript lleuger i int
 
 [ves-hi](https://qmrcat.github.io/ZonaJS/)
 
+## Crea estructures de directoris
 
+Script per automatitzar la generació d’arbres de directoris a partir d’una descripció simple en text.
+
+[ves-hi](https://qmrcat.github.io/create-directories/)
 
 <!--
 **qmrcat/qmrcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
