@@ -28,17 +28,19 @@ Estàs estressat, desestressa't rebentant les bombolles. No en deixis cap, Au! C
 
 [ves-hi](https://vibracat.github.io/peta/)
 
+## Crea estructures de directoris
+
+Script per automatitzar la generació d’arbres de directoris a partir d’una descripció simple en text.
+
+[ves-hi](https://qmrcat.github.io/create-directories/)
+
 ## Zona JS
 
 Zona JS - playgroundJS és un entorn de desenvolupament JavaScript lleuger i intuïtiu, creat amb JavaScript Vanilla pur, mòduls ES6 i Tailwind CSS. Proporciona un espai de treball minimalista per escriure, executar i experimentar amb codi JavaScript directament al navegador, sense distraccions.
 
 [ves-hi](https://qmrcat.github.io/ZonaJS/)
 
-## Crea estructures de directoris
 
-Script per automatitzar la generació d’arbres de directoris a partir d’una descripció simple en text.
-
-[ves-hi](https://qmrcat.github.io/create-directories/)
 
 
 <!--
